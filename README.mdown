@@ -1,6 +1,8 @@
 Cocos2d-html5
 ==================
 
+[![Join the chat at https://gitter.im/man2/cocos2d-html5](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/man2/cocos2d-html5?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Cocos2d-html5][1] is a cross-platform 2D game engine written in Javascript, based on [Cocos2d-X][2] and licensed under MIT.
 It incorporates the same high level api as “Cocos2d JS-binding engine” and compatible with Cocos2d-X.
 It currently supports canvas and will support WebGL in the future.
